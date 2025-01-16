@@ -8,19 +8,6 @@ Two datasets are utilized:
 - **Training Dataset:** Contains labeled data for model training.
 - **Testing Dataset:** Unlabeled data for evaluating model performance.
 
-Key features include:
-- **CustomerID:** Unique customer identifier
-- **CreditScore:** Customer’s credit score
-- **Geography:** Customer location
-- **Gender:** Male/Female
-- **Age:** Customer age
-- **Tenure:** Number of years as a customer
-- **Balance:** Customer’s account balance
-- **NumOfProducts:** Number of bank products used
-- **IsActiveMember:** Customer’s activity status
-- **EstimatedSalary:** Estimated annual salary
-- **Exited:** Target variable indicating churn status (1 for churn, 0 for no churn)
-
 ## Methodology
 ### 1. Data Exploration and Preprocessing
 - **Data Loading:** Importing datasets for analysis.
@@ -41,7 +28,6 @@ Key features include:
   - Random Forest Classifier
   - Gradient Boosting Classifier
   - XGBoost Classifier
-  - Voting Classifier for ensemble learning
 - Evaluation metrics include:
   - Accuracy
   - Precision, Recall, F1-Score
@@ -52,8 +38,14 @@ Key features include:
 - **Random Forest Classifier:** Ensemble method that builds multiple decision trees.
 - **Gradient Boosting Classifier:** Boosting technique for sequential model improvement.
 - **XGBoost Classifier:** Optimized gradient boosting implementation.
-- **Voting Classifier:** Combines multiple model predictions for robust classification.
 
 ## Results and Metrics
 - **Model Performance:** Metrics for evaluating the effectiveness of predictions, including confusion matrices.
+
+![Image](https://github.com/user-attachments/assets/ca74cb4c-7afe-4a05-a012-b5fe5ab0da26)
+
 - **Insights:** Identification of key factors contributing to customer churn.
+- Key Factors: **Age**, **Active Membership** and **Number of Products**
+
+  ![Image](https://github.com/user-attachments/assets/9506dfc1-3f45-4770-b3f1-169628f452bf)
+  
