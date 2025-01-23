@@ -41,6 +41,42 @@ Two datasets are utilized:
 
 ## Results and Metrics
 - **Model Performance:** Metrics for evaluating the effectiveness of predictions, including confusion matrices.
+<table align="center">
+<tr>
+  <th>MODEL</th>
+  <th>ACCURACY</th>
+  <th>PRECISION</th>
+  <th>RECALL</th>
+  <th>F1 SCORE</th>
+  <th>ROC-AUC</th>
+</tr>
+<tr>
+  <td>Random Forest Classifier</td>
+  <td align="center">86.0%</td>
+  <td align="center">73.0%</td>
+  <td align="center">53.0%</td>
+  <td align="center">61.0%</td>
+  <td align="center">74.0%</td>
+</tr>
+<tr>
+  <td>Gradient Boosting Classifier</td>
+  <td align="center">86.0%</td>
+  <td align="center">75.0%</td>
+  <td align="center">53.0%</td>
+  <td align="center">62.0%</td>
+  <td align="center">74.0%</td>
+</tr>
+<tr>
+  <td>X Gradient Boosting Classifier</td>
+  <td align="center">86.0%</td>
+  <td align="center">74.0%</td>
+  <td align="center">56.0%</td>
+  <td align="center">64.0%</td>
+  <td align="center">75.0%</td>
+</tr>
+</table>
+
+<br>
 
 ![Image](https://github.com/user-attachments/assets/ca74cb4c-7afe-4a05-a012-b5fe5ab0da26)
 
