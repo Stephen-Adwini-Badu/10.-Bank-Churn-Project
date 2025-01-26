@@ -40,7 +40,7 @@ Two datasets are utilized:
 - **XGBoost Classifier:** Optimized gradient boosting implementation.
 
 ## Results and Metrics
-- **Model Performance:** Metrics for evaluating the effectiveness of predictions, including confusion matrices.
+- **Model Performance:** Metrics for evaluating the effectiveness of predictions.
 <table align="center">
  <tr>
    <th>MODEL</th>
@@ -76,12 +76,22 @@ Two datasets are utilized:
  </tr>
 </table>
 
+- Including Confusion Matrices
+
+![10 1](https://github.com/user-attachments/assets/5e8eb47b-d4f5-4960-a0fc-971819c66062)
+
+
+- And ROC-AUC and Calibration Curves
+
+![10 2](https://github.com/user-attachments/assets/b279708a-6a7a-45f9-af80-3c6f467df1e4)
+
 <br>
 
-![Image](https://github.com/user-attachments/assets/ca74cb4c-7afe-4a05-a012-b5fe5ab0da26)
-
 - **Insights:** Identification of key factors contributing to customer churn.
-- Key Factors: **Age**, **Active Membership** and **Number of Products**
+  - Key Factors:
+  - **Age**
+  - **Active Membership**
+  - and **Number of Products**
 
   ![Image](https://github.com/user-attachments/assets/9506dfc1-3f45-4770-b3f1-169628f452bf)
   
