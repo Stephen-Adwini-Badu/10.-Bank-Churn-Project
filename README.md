@@ -83,7 +83,7 @@ Two datasets are utilized:
 
 - And ROC-AUC and Calibration Curves
 
-![10 2](https://github.com/user-attachments/assets/b279708a-6a7a-45f9-af80-3c6f467df1e4)
+![10 1](https://github.com/user-attachments/assets/6901a4bd-1ac2-4e90-b047-686e813e50ee)
 
 <br>
 
