@@ -116,5 +116,5 @@ Two datasets are utilized:
       - **Estimated Salary**  
       - **Active Membership**
    
-   ![Image](https://github.com/user-attachments/assets/9506dfc1-3f45-4770-b3f1-169628f452bf)
+![Image](https://github.com/user-attachments/assets/9506dfc1-3f45-4770-b3f1-169628f452bf)
   
